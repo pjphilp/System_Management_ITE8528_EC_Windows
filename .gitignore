@@ -286,3 +286,8 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/ITE8528_EC_Lib/Documentation/html
+/ITE8528_EC_Lib/inpoutx64.dll
+/ITE8528_EC_Lib/Doxyfile
+/ITE8528_EC_Lib/Documentation.zip
+/Tests/EC_Access_Decode/Decode
